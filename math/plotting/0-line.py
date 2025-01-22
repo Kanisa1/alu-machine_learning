@@ -1,3 +1,4 @@
+#!user/bin/evn python 3
 import matplotlib.pyplot as plt
 import numpy as np
 
